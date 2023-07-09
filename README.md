@@ -21,3 +21,5 @@ We will clean up stuff later
 
 git remote add origin https://gitlab.com/devopstraining1903327/howbjackdemo.git
 
+4) Remember to resolve conflict with using "main" or "master" as the protected branch. More to come on this
+
