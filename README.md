@@ -19,7 +19,12 @@ We will clean up stuff later
 
 ## Steps to create a remote gitlab repository
 
-git remote add origin https://gitlab.com/devopstraining1903327/howbjackdemo.git
+   1. git remote add origin https://gitlab.com/devopstraining1903327/howbjackdemo.git
 
-4) Remember to resolve conflict with using "main" or "master" as the protected branch. More to come on this
+      Note: Remember to resolve conflict with using "main" or "master" as the protected branch. More to come on this
+
+   2. Create a branch with "git checkout -b <branchname>
+
+   3. Work from the feature branch and push to GitLab. It will be mirrored to GItHub 
+   
 
