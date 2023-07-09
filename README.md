@@ -1,6 +1,8 @@
 # howbjackdemo
 
 
+## This is a repoistory that is being used to demo gitlab-->github synchronization
+
 
 ## Getting started
 
