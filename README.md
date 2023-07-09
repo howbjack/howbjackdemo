@@ -6,7 +6,7 @@
 We will clean up stuff later 
 
 
-## Steps to Execute
+## Steps to Execute Miroring 
 
 1) Create a  fine-grained personal access token on Github 
 
@@ -16,3 +16,8 @@ We will clean up stuff later
                   2)  The GitHub personal access token, which will be entered as the password 
 
 3) After selecting **Mirror Repository** the repository pushes shortly thereafter. To force a push, select **Update now** 
+
+## Steps to create a remote gitlab repository
+
+git remote add origin https://gitlab.com/devopstraining1903327/howbjackdemo.git
+
