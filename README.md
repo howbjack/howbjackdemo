@@ -3,6 +3,8 @@
 
 ## This is a repoistory that is being used to demo gitlab-->github synchronization
 
+We will clean up stuff later 
+
 
 ## Getting started
 
